@@ -1,0 +1,9 @@
+ul, ol {
+  margin-bottom: 1.5em; }
+
+input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=url], select, textarea {
+  padding: .25rem 1rem; }
+
+.woocommerce label,
+.woocommerce h3 {
+  font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif !important; }
